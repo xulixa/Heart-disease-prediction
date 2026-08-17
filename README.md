@@ -1,4 +1,4 @@
-\# Heart Disease Prediction
+# Heart Disease Prediction
 
 
 
@@ -6,7 +6,7 @@ Machine learning project for predicting the presence of heart disease using clin
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -18,27 +18,27 @@ The workflow includes:
 
 
 
-\- data cleaning and preprocessing,
+- data cleaning and preprocessing,
 
-\- handling missing values,
+- handling missing values,
 
-\- categorical feature encoding,
+- categorical feature encoding,
 
-\- feature scaling,
+- feature scaling,
 
-\- exploratory data analysis,
+- exploratory data analysis,
 
-\- binary classification,
+- binary classification,
 
-\- multiclass classification,
+- multiclass classification,
 
-\- hyperparameter optimization,
+- hyperparameter optimization,
 
-\- and model evaluation.
+- and model evaluation.
 
 
 
-\## Dataset
+## Dataset
 
 
 
@@ -50,31 +50,31 @@ The dataset includes clinical and demographic features such as:
 
 
 
-\- age
+- age
 
-\- sex
+- sex
 
-\- chest pain type
+- chest pain type
 
-\- resting blood pressure
+- resting blood pressure
 
-\- cholesterol
+- cholesterol
 
-\- fasting blood sugar
+- fasting blood sugar
 
-\- resting ECG results
+- resting ECG results
 
-\- maximum heart rate
+- maximum heart rate
 
-\- exercise-induced angina
+- exercise-induced angina
 
-\- ST depression
+- ST depression
 
-\- slope
+- slope
 
-\- number of major vessels
+- number of major vessels
 
-\- thalassemia
+- thalassemia
 
 
 
@@ -86,13 +86,13 @@ For binary classification, the target is transformed into:
 
 
 
-\- `0` – no heart disease
+- `0` – no heart disease
 
-\- `1` – presence of heart disease
+- `1` – presence of heart disease
 
 
 
-\## Machine Learning Models
+## Machine Learning Models
 
 
 
@@ -100,17 +100,17 @@ The following classification algorithms were evaluated:
 
 
 
-\- Decision Tree
+- Decision Tree
 
-\- Gaussian Naive Bayes
+- Gaussian Naive Bayes
 
-\- Random Forest
+- Random Forest
 
-\- Logistic Regression
+- Logistic Regression
 
-\- Support Vector Machine
+- Support Vector Machine
 
-\- K-Nearest Neighbors
+- K-Nearest Neighbors
 
 
 
@@ -118,7 +118,7 @@ Hyperparameter optimization was performed for selected models using Grid Search 
 
 
 
-\## Evaluation
+## Evaluation
 
 
 
@@ -126,15 +126,15 @@ Models were evaluated using:
 
 
 
-\- Accuracy
+- Accuracy
 
-\- Precision
+- Precision
 
-\- Recall
+- Recall
 
-\- F1 Score
+- F1 Score
 
-\- Confusion Matrix
+- Confusion Matrix
 
 
 
@@ -142,7 +142,7 @@ Both binary and multiclass classification tasks were investigated.
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -166,35 +166,34 @@ Heart-disease-prediction/
 
 
 
-\## Technologies
+## Technologies
 
 
 
-\- Python
+- Python
 
-\- Pandas
+- Pandas
 
-\- NumPy
+- NumPy
 
-\- Matplotlib
+- Matplotlib
 
-\- Seaborn
+- Seaborn
 
-\- Scikit-learn
+- Scikit-learn
 
-Imbalanced-learn
+- Imbalanced-learn
 
-Jupyter Notebook
-
-
-
-\## Team
+- Jupyter Notebook
 
 
 
-\- Petar Kuruc
+## Team
 
-\- Klara Zagajski
 
-\- Lucija Čorak
 
+- Petar Kuruc
+
+- Klara Zagajski
+
+- Lucija Čorak
